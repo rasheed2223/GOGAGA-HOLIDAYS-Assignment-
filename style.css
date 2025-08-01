@@ -1,0 +1,22 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.hero img {
+  max-width: 100%;
+}
+
+.card {
+  position: relative;
+  overflow: hidden;
+}
+
+.card-title, .card-text {
+  color: white;
+}
+
+footer {
+  background-color: #f8f9fa;
+  color: #000;
+}
